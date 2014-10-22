@@ -47,6 +47,14 @@ coverage.xml
 # Django stuff:
 *.log
 
+# Spyder and CherryPy stuff
+*.cfg
+.spyderproject
+*~
+*.mp4
+*.webm
+media/
+
 # Sphinx documentation
 docs/_build/
 
